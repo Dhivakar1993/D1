@@ -1,0 +1,20 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+HTTP1:
+* Http is a data transfer protocol
+* HTTP1.1 version introduced in new futures in cache control and content neogation alowed in different languages
+* HTTP1 connections between client and server
+* Its Supported in pipelining
+*HTTP1 was easyly adopted in by browsers and client.
+
+HTTP2:
+* HTTP2 is developed by Internet engineering task force.
+* HTTP2 is supported in standardize and popular internet browsers
+* HTTP2 is server response from alternative information provide to client
+* HTTP2 Data is formed or framed
+
+Objects and internal representation:
+* javascript designed simple object based paradigm
+* a java scripts objects is a collection of named values having properties and methods
+* Objects contains many values
+* the object and properties can different in primitive values
+* a object method is containing object properties and functions
